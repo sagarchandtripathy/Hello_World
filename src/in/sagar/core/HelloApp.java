@@ -8,6 +8,8 @@ public class HelloApp {
 		Test test1 = new Test();
 		test1.setName("Test1");
 		System.out.println(test1.getName());
+
+		System.out.println("This line is added by Saigopal");
 		
 	}
 }
